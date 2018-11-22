@@ -15,7 +15,7 @@ mkdir ~/Library/QuickLook  # Create the folder, or give an error if it exists
 ```
 * Download the [DMG](https://github.com/nunopedrosa/QLSVGSprite/blob/master/QLSVGSprite-Installer.dmg), open it and drag the generator into the QuickLook shortcut.
 It should be available immediately.
-*
+
 If, for some reason, the previewer does not work, open a terminal and refresh QuickLook plugins with the *qlmanager* utility:
 
 ```
