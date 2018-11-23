@@ -6,6 +6,8 @@ About
 SVG sprites are a special kind of SVG file, mostly unsupported by SVG editors or viewers. They are made of different symbols, each a simple image with an id. This QL plugin allows previewing the contents of a sprite SVG file.
 All the sprites are displayed within a grid, headed by the symbol name.
 
+The **sprite-min.svg** file, from [https://github.com/iconic/open-iconic](https://github.com/iconic/open-iconic), shows how the plugin works.
+
 Installation
 ------------
 * Make sure you have a **QuickLook** folder under **~/Library/QuickLook**. If unsure, just go to a terminal and run:
